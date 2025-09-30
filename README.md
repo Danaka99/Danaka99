@@ -1,4 +1,4 @@
-<!-- Profile Header -->
+
 <h1 align="center">👋 Hello, I'm <span style="color:#00BFFF;">Danaka Lakdineepa</span></h1>
 <h3 align="center">🚀 Full-Stack Developer | Cloud & DevOps Enthusiast</h3>
 
@@ -6,14 +6,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;Cloud+%26+DevOps+Practitioner;Always+Learning+New+Things" alt="Typing Animation" />
 </p>
 
----
+
 
 ## 🎓 Education  
 
 📘 **BSc (Hons) Software Engineering** – *University of Plymouth*  
 📗 **BSc (Hons) Information Technology** – *University of Colombo*  
 
----
+
 
 ## 🛠️ Tech Arsenal  
 
@@ -59,7 +59,7 @@
 </p>
 
 
----
+
 
 ## 📊 GitHub Analytics  
 
@@ -68,7 +68,7 @@
 </p>
 
 
----
+
 
 ## 🗓️ Contribution Timeline  
 
