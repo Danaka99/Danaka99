@@ -6,12 +6,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;Cloud+%26+DevOps+Practitioner;Always+Learning+New+Things" alt="Typing Animation" />
 </p>
 
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px>
+</p>
+
 
 
 ## 🎓 Education  
 
 📘 **BSc (Hons) Software Engineering** – *University of Plymouth*  
 📗 **BSc (Hons) Information Technology** – *University of Colombo*  
+
+<p>
+   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+</p>
 
 
 
@@ -59,14 +67,11 @@
 </p>
 
 
-
-
 ## 📊 GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Danaka99&show_icons=true&theme=gotham" alt="Danaka99" />
 </p>
-
 
 
 
