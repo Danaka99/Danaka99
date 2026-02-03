@@ -69,9 +69,9 @@
 
 ## 📊 GitHub Analytics  
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Danaka99&show_icons=true&theme=gotham" alt="Danaka99" />
-</p>
+</p> -->
 
 
 
