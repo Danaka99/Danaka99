@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Full-Stack Developer | Cloud & DevOps Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;Cloud+%26+DevOps+Practitioner;Always+Learning+New+Things" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;Cloud+%26+DevOps+Practitioner;Game+Developer;Always+Learning+New+Things" alt="Typing Animation" />
 </p>
 
 <p align = "center">
@@ -42,6 +42,9 @@
   <!-- Cloud & DevOps -->
   <strong>Cloud & DevOps</strong><br/><br/>
   <img src="https://skillicons.dev/icons?i=aws,azure,redhat,terraform,bash" alt="Cloud & DevOps" style="margin: 5px;" />
+
+  <strong>Game Development</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=unity" alt="Game Dev" style="margin: 5px;" /><br/>
 
 </p>
 
